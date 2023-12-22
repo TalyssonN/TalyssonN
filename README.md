@@ -12,7 +12,7 @@
 
 
 ### Tecnologia usada no dia a dia:
-![PHP]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
+![PHP]((https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
 
 ### Repositório para projetos:
 https://github.com/TalyssonN/PROJETOS
