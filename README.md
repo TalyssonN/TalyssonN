@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Talysson👋
-### Desenvolvedor PHP em construção...
+### Desenvolvedor Python
 
 
 ### Formas de contato:
@@ -12,7 +12,7 @@
 
 
 ### Tecnologia usada no dia a dia:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Repositório para projetos:
 https://github.com/TalyssonN/PROJETOS
