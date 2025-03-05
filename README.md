@@ -11,7 +11,7 @@
 
 
 ### Tecnologia usada no dia a dia:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 ## Apaixonado pela liberdade do conhecimento!
