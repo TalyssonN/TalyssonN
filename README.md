@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Talysson👋
-### Desenvolvedor Java
+### Desenvolvedor Front-End
 
 
 ### Formas de contato:
