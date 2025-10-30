@@ -1,9 +1,6 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/talysson-nogueira/talysson-nogueira/blob/main/banner.png" alt="Talysson Nogueira Banner" width="100%"/>
-</p>
 
-<h1 align="center">👋 Olá, eu sou o <strong>Talysson Nogueira</strong></h1>
+<h1 align="center"> <strong>Talysson Nogueira Nascimento</strong></h1>
 
 <p align="center">
   💻 Desenvolvedor Back-end | 🚀 Estudante de Ciência da Computação | ⚙️ Apaixonado por Tecnologia
