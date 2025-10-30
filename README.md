@@ -1,69 +1,65 @@
-# 👋 Olá! Eu sou o Talysson Nogueira
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/talysson-nogueira/talysson-nogueira/blob/main/banner.png" alt="Talysson Nogueira Banner" width="100%"/>
+</p>
 
-🎯 **Cientista de Dados & Criador de Soluções com Impacto**  
-⚡ Transformando dados em decisões inteligentes e escaláveis  
+<h1 align="center">👋 Olá, eu sou o <strong>Talysson Nogueira</strong></h1>
 
-Sou um profissional apaixonado por **dados e tecnologia**, com experiência em transformar grandes volumes de informação em **insights acionáveis** e **soluções orientadas ao negócio**. Tenho atuado em projetos que envolvem desde análises exploratórias até **modelos de Machine Learning em produção**, sempre com foco em **performance, qualidade e escalabilidade**.
-
----
-
-## 🚀 Stack & Ferramentas
-
-💻 **Linguagens e Bibliotecas**
-- Python | SQL | Pandas | Scikit-learn | PySpark | PyTorch  
-
-⚙️ **Engenharia e Pipelines**
-- Apache Spark | Apache Airflow | ETL/ELT | DBT | Databricks  
-
-☁️ **Cloud & DevOps**
-- AWS (S3, Glue, Redshift, EMR)  
-- GCP (BigQuery, Dataflow, Composer)  
-- Docker | Kubernetes | Git | MLflow  
-
-🧠 **Boas Práticas**
-- Clean Code | Testes (PyTest/Mock) | APIs REST  
+<p align="center">
+  💻 Desenvolvedor Back-end | 🚀 Estudante de Ciência da Computação | ⚙️ Apaixonado por Tecnologia
+</p>
 
 ---
 
-## 🧩 Sobre mim
-
-Acredito que **Ciência de Dados vai além dos algoritmos** — trata-se de entender o problema, explorar os dados com profundidade e **entregar valor real** por meio de análises precisas e modelos robustos.
-
-Sou movido pela curiosidade, aprendizado contínuo e inovação. Gosto de trabalhar com **equipes multidisciplinares**, aplicando **metodologias ágeis** e boas práticas de engenharia de software.
-
----
-
-## 💼 Experiência
-
-**DPL Construções** – *Assistente Administrativo*  
-📅 Agosto de 2025 – Presente  
-📍 Teresina, PI  
-Atuação em análise de dados e processos logísticos, controle de informações, elaboração de relatórios e dashboards com Power BI e Excel avançado.
-
-**Udi 24 Horas** – *Recepcionista*  
-📅 Março de 2025 – Setembro de 2025  
-📍 Teresina, PI  
-
-**Hospital Flavio Santos** – *Almoxarife*  
-📅 Maio de 2025  
+<p align="center">
+  <a href="https://www.linkedin.com/in/talysson-nogueira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Talysson%20Nogueira-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:talysson39n@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-talysson39n%40gmail.com-red?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://github.com/talysson-nogueira">
+    <img src="https://img.shields.io/badge/GitHub-talysson--nogueira-black?logo=github&style=flat-square" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🧠 Tech Stack
 
-🎓 **Engenharia de Software**  
-📍 UniFavip Wyden  
-🗓️ Outubro de 2025 – Dezembro de 2029  
+💻 **Linguagens & Frameworks**
+- Python 🐍 | Node.js ⚙️ | JavaScript | TypeScript  
+- Express | FastAPI | React  
+
+🗄️ **Banco de Dados**
+- PostgreSQL | SQLite | MongoDB  
+
+☁️ **DevOps & Infra**
+- | Git & GitHub | Cloud Basics (AWS / GCP)
+
+🔐 **Boas Práticas**
+- RESTful APIs | Clean Code | Padrões MVC | Testes Automatizados | Segurança JWT  
 
 ---
 
-## 📜 Certificações
+## 🧩 O que me motiva
 
-- Introdução à Programação Orientada a Objetos (POO) com Python  
+✨ Criar **projetos reais**, que saem do código e fazem diferença.  
+🤖 Automatizar o que é repetitivo e otimizar o que é manual.  
+📈 Aprender, aplicar e compartilhar conhecimento.  
+🎯 Melhorar um commit de cada vez.
 
 ---
 
-## 🌐 Contato
+## 🎓 Formação
+
+🎓 **Ciência da Computação**  
+📍 Universidade [Unifavip Wyden]  
+🗓️ 2025 – Presente  
+
+---
+
+## 📬 Contato
 
 📧 **E-mail:** [talysson39n@gmail.com](mailto:talysson39n@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/talysson-nogueira](https://www.linkedin.com/in/talysson-nogueira)  
@@ -71,4 +67,10 @@ Atuação em análise de dados e processos logísticos, controle de informaçõe
 
 ---
 
-⭐ *“Dados são o novo combustível — mas é a análise que faz o motor girar.”*
+> “A melhor linha de código é aquela que transforma um problema em solução.” 💭  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Talysson%20Nogueira-red?style=for-the-badge" />
+</p>
