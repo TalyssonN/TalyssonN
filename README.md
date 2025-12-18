@@ -3,7 +3,7 @@
 <h1 align="center"> <strong>Talysson Nogueira Nascimento</strong></h1>
 
 <p align="center">
-  💻 Desenvolvedor Back-end | 🚀 Estudante de Ciência da Computação | ⚙️ Apaixonado por Tecnologia
+  💻 Desenvolvedor Back-end | 🚀 Estudante de Análise e Desenvolvimento de Sistemas | ⚙️ Apaixonado por Tecnologia
 </p>
 
 ---
@@ -50,8 +50,8 @@
 
 ## 🎓 Formação
 
-🎓 **Ciência da Computação**  
-📍 Universidade [Unifavip Wyden]  
+🎓 **Análise e Desenvolvimento de Sistemas**  
+📍 Universidade [Estácio]  
 🗓️ 2025 – Presente  
 
 ---
