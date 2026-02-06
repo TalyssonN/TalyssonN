@@ -3,7 +3,7 @@
 <h1 align="center"> <strong>Talysson Nogueira Nascimento</strong></h1>
 
 <p align="center">
-  💻 Desenvolvedor Back-end | 🚀 Estudante de Análise e Desenvolvimento de Sistemas | ⚙️ Apaixonado por Tecnologia
+  📊 Analista de Dados Júnior | 🤖 Cientista de Dados em Formação | 📈 Aprendendo a transformar dados em insights
 </p>
 
 ---
@@ -22,37 +22,64 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack (em desenvolvimento)
 
-💻 **Linguagens & Frameworks**
-- Python 🐍 | Node.js ⚙️ | JavaScript | TypeScript  
-- Express | FastAPI | React  
+📊 **Análise de Dados**
+- Python 🐍 | Pandas | NumPy  
+- Análise Exploratória de Dados (EDA)  
+- Limpeza e tratamento de dados  
+
+📈 **Visualização de Dados**
+- Matplotlib | Seaborn  
+- Criação de gráficos e dashboards simples  
+
+🤖 **Machine Learning (Base)**
+- Scikit-learn  
+- Regressão e Classificação (nível introdutório)  
+- Avaliação básica de modelos  
 
 🗄️ **Banco de Dados**
-- PostgreSQL | SQLite | MongoDB  
+- SQL (SELECT, JOIN, GROUP BY)  
+- PostgreSQL | MySQL | SQLite  
 
-☁️ **DevOps & Infra**
-- | Git & GitHub | Cloud Basics (AWS / GCP)
-
-🔐 **Boas Práticas**
-- RESTful APIs | Clean Code | Padrões MVC | Testes Automatizados | Segurança JWT  
+☁️ **Ferramentas & Práticas**
+- Git & GitHub  
+- Noções de ETL  
+- Jupyter Notebook  
 
 ---
 
 ## 🧩 O que me motiva
 
-✨ Criar **projetos reais**, que saem do código e fazem diferença.  
-🤖 Automatizar o que é repetitivo e otimizar o que é manual.  
-📈 Aprender, aplicar e compartilhar conhecimento.  
-🎯 Melhorar um commit de cada vez.
+✨ Aprender como **dados apoiam decisões reais**.  
+📊 Evoluir na análise e visualização de informações.  
+🤖 Desenvolver modelos simples de Machine Learning.  
+📈 Crescer tecnicamente com projetos práticos.  
+🎯 Aprender um conceito novo a cada dia.
+
+---
+
+## 📂 Projetos (em construção)
+
+- 📊 Análises exploratórias com dados públicos  
+- 📈 Dashboards simples para visualização de métricas  
+- 🤖 Modelos iniciais de Machine Learning  
+
+*(Projetos focados em aprendizado e prática contínua)*
 
 ---
 
 ## 🎓 Formação
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
+🎓 **Engenharia de Software**  
 📍 Universidade [Estácio]  
 🗓️ 2025 – Presente  
+
+📚 **Áreas de Estudo**
+- Análise de Dados  
+- Estatística Básica  
+- SQL para Dados  
+- Introdução à Ciência de Dados  
 
 ---
 
@@ -64,10 +91,10 @@
 
 ---
 
-> “A melhor linha de código é aquela que transforma um problema em solução.” 💭  
+> “Todo especialista já foi iniciante — o importante é não parar de aprender.” 📚  
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Talysson%20Nogueira-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Em%20aprendizado%20constante-Talysson%20Nogueira-blue?style=for-the-badge" />
 </p>
